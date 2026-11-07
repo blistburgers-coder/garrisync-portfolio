@@ -16,7 +16,7 @@ GARRISYNC positions itself as an **alliance operating system**: the place where 
 Join onboarding and managed invites · leadership briefs · routed leadership requests · availability heatmap planning · event/RSVP/reminders · recurring-battle scheduling · attendance and reporting · recruitment pipeline · knowledge assistant · multi-language interface · tenant configuration · AI cost guardrails · backup and restore.
 
 ## Customers and results
-GARRISYNC is a commercial product with customer alliances running on it. This portfolio deliberately does not publish customer names, pricing agreements, revenue, or user counts.
+GARRISYNC moved beyond a pilot into a revenue-generating commercial SaaS product with paying customer alliances. That transition demonstrates customer acquisition, product delivery, onboarding, and ongoing support—not just a working software prototype. This portfolio deliberately does not publish customer identities, subscription terms, revenue amounts, or user counts.
 
 ## Takeaways
 Product strategy under uncertainty, disciplined scope control, honest positioning, and shipping across the full stack — with AI tools as accelerators and human review as the gate.
