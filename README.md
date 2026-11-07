@@ -7,7 +7,7 @@
 | | |
 |---|---|
 | **Role** | Founder & AI Product / Operations Lead |
-| **Product** | Commercial SaaS for game alliances, sold to alliance leadership teams |
+| **Product** | Revenue-generating SaaS serving paying customer alliances |
 | **Surfaces** | Discord bot + web Command Center |
 | **Built with** | AI-assisted development (ChatGPT, Claude, coding agents) under human product direction and review |
 
@@ -22,7 +22,7 @@ Alliance leaders in large online games coordinate hundreds of players across tim
 
 ## Highlights
 
-- Built and operates a real product with customer alliances in production.
+- Founded and launched a commercial SaaS product with paying customer alliances, moving from product development into real customer delivery and ongoing operations.
 - Designed fail-closed safeguards for AI usage (spend accounting, access controls) and privacy-conscious handling of member data.
 - Runs a disciplined release process: staged candidates, acceptance review, documented rollback paths, and backup/restore proof.
 - Maintains a "truth sheet" discipline — marketing claims are tied to verified feature status (live / in progress / planned / blocked).
@@ -37,7 +37,7 @@ Alliance leaders in large online games coordinate hundreds of players across tim
 
 ## What is intentionally not here
 
-Source code, algorithms, configuration, deployment details, hostnames, customer names, pricing agreements, revenue or subscriber figures, and screenshots. No revenue or user-count claims are made in this portfolio.
+Source code, algorithms, configuration, deployment details, hostnames, customer names, pricing agreements, exact revenue amounts, subscriber or user counts, and screenshots. Commercial traction is described without disclosing confidential customer or financial details.
 
 ## Contact
 
