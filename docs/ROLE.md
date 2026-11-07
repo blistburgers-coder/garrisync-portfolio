@@ -6,4 +6,4 @@
 - **Quality & release management** — acceptance reviews, staged deployments, rollback planning, and post-release verification.
 - **Operations & infrastructure oversight** — hosting, backups, recovery rehearsals, and security hardening decisions.
 - **Customer management** — onboarding alliances, collecting feedback, and turning it into prioritized improvements.
-- **Business** — pricing research, go-to-market planning, and positioning/claims governance.
+- **Business** — go-to-market planning, launch of a commercial SaaS product with paying customer alliances, customer relationships, and positioning/claims governance.
